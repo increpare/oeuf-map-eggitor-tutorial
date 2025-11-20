@@ -295,6 +295,7 @@ Cycle to Layer Mode with **Backtick** (**`**).
 - Use the layer selection tool to pick a layer by clicking geometry.
 - You can then **move**, **rotate**, or **mirror/flip** the entire layer.
 - One one voxel can occupy a single position - if you drag one layer to overlap another, voxels are going to get deleted from one of the layers!
+- Do not use the staircase block - it does not play well with egg physics.
 
 ---
 
