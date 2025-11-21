@@ -54,7 +54,7 @@ In the top left of the screen you can see :
 * the current file name (change and press enter to save as a new file)
   * (note Some built‑in maps are read‑only (e.g., `minimal`, `egg world`). You can save them under other files names ok though!)
 * the dropdown button to list/open existing files
-* the button to open up the levels folder in your operating system's file browser, should you wish to share levels with others. :)
+* the button to open up the levels folder (shortcut: **Ctrl + L** in your operating system's file browser, should you wish to share levels with others. :)
 
 ---
 
