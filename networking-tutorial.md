@@ -1,4 +1,4 @@
-# quick + dirty networking setup guide
+# Quick + Dirty Networking Setup Guide
 
 To play multiplayer, one person acts as the host server, the other player connects to the host as clients.
 
