@@ -1,1 +1,2 @@
-npx github-readme-to-html -i .\map-editor-tutorial.md -d ./ -o index.html
+call npx github-readme-to-html --title "Oeuf Map Editor Tutorial" -i .\map-editor-tutorial.md -d ./ -o map-editor-tutorial.html
+call npx github-readme-to-html --title "Oeuf Networking Tutorial" -i .\networking-tutorial.md -d ./ -o networking-tutorial.html
