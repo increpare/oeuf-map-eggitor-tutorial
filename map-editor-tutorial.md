@@ -313,6 +313,7 @@ Cycle to Layer Mode with **Backtick** (**`**).
 - Copy a selected layer/group and paste it as a brush.
 - Select the Copy tool (3) and click anywhere to copy the current layer to the clipboard.
 - Select paste and move (not rotate) your camera - note that you can now see the outline of the layer move with your camera - click to paste a copy of the copied layer.
+- You can copy/paste between different files!
 
 <img height="300" src="./map-editor-images/b54e33d7-6058-4959-a116-73188bdf6d01.png" />
 

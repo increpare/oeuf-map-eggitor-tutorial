@@ -4,11 +4,12 @@ To play multiplayer, one person acts as the host server, the other player connec
 
 ## 1. Hosting a Game (the server)
 
-1. Start the game → Select 'Online Multiplayer'.
-2. Pick a **port** (default rn: 8012, rest of the doc assumes this).  (IP address field is irrelevant if you're a host).
-3. Hit **host**.  
-3. The game starts listening on `0.0.0.0:PORT` (i.e., all interfaces).  
-4. Tell your friends your **public ip** and **selected port** (Google “what is my ip” and you can find a site to tell you - if you're playing within a LAN you want to find out your **local ip**'**).
+1. If you want to play custom maps, make sure all players have the levels downloaded (with the same names).
+2. Start the game → Select 'Online Multiplayer'.
+3. Pick a **port** (default rn: 8012, rest of the doc assumes this).  (IP address field is irrelevant if you're a host).
+4. Hit **host**.  
+5. The game starts listening on `0.0.0.0:PORT` (i.e., all interfaces).  
+6. Tell your friends your **public ip** and **selected port** (Google “what is my ip” and you can find a site to tell you - if you're playing within a LAN you want to find out your **local ip**'**).
 
 Then wait for people to connect.
 
